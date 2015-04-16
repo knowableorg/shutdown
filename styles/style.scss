@@ -54,4 +54,35 @@ html {
 
 //// Main Styles
 
+body {
+    font-family: 'PT Serif', Georgia, Cambria, "Times New Roman", Times, serif;
+}
 
+a {
+    text-decoration: none;
+    color: #66bbd5;
+}
+
+.company-logos {
+    width: 90%;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 120px;
+}
+
+.shutdown-notice {
+    width: 90%;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 180px;
+    font-size: 1.2em;
+    line-height: 1.6em;
+    letter-spacing: .01rem;
+    p {
+        margin: 0 0 20px 0;
+    }
+    .co-founders {
+        font-style: italic;
+    }
+}

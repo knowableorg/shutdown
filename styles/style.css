@@ -35,3 +35,30 @@ q:before, q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0; }
+
+body {
+  font-family: 'PT Serif', Georgia, Cambria, "Times New Roman", Times, serif; }
+
+a {
+  text-decoration: none;
+  color: #66bbd5; }
+
+.company-logos {
+  width: 90%;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 120px; }
+
+.shutdown-notice {
+  width: 90%;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 180px;
+  font-size: 1.2em;
+  line-height: 1.6em;
+  letter-spacing: .01rem; }
+  .shutdown-notice p {
+    margin: 0 0 20px 0; }
+  .shutdown-notice .co-founders {
+    font-style: italic; }
